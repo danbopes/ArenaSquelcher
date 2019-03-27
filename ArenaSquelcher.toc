@@ -1,0 +1,10 @@
+## Interface: 20400
+
+## Title: Arena Squelcher
+## Author: Danbopes (Glorybringer/Horde)
+## Version: 0.1
+## DefaultState: Enabled
+
+## Notes: A simple addon to disable arena broadcasts on Netherwing. Essentially persists '.character arenaBroadcast'
+
+main.lua
